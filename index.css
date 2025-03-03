@@ -8,6 +8,11 @@
 .halfwidth{
     width: 50%;
 }
+.dividerStyle{
+    width: 100px;
+    height: 2px;
+}
+
 
 @media screen and (max-width:991px) {
     .halfwidth{
